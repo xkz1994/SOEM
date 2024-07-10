@@ -4,3 +4,7 @@ install
 /doc/latex
 /doc/html
 tags
+
+cmake-build-debug-visual-studio/
+
+.idea/
